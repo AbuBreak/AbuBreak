@@ -1,7 +1,7 @@
 <h1 align="center">I'm Malik abubreak</h1>
 <h3 align="center">💻 Junior Mobile Developer | Flutter | iOS | JAVA | Spring | Spring Boot | Node.js</h3>
 
-<img align=“right” width=“400” src="https://raw.githubusercontent.com/Potential17/Potential17/master/user%20(2).gif" alt="abubreak"/>
+<img align=“center” width=“400” src="https://raw.githubusercontent.com/Potential17/Potential17/master/user%20(2).gif" alt="abubreak"/>
 
 - 🌱 I’m currently learning **React Native**
 
@@ -13,7 +13,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/www.linkedin.com/in/malik-abubreak-90a94b180" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/malik-abubreak-90a94b180" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/malik-abubreak-90a94b180" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="malik-abubreak-90a94b180" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/malik-abubreak" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="malik-abubreak" height="30" width="40" /></a>
 </p>
 
