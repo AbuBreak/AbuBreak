@@ -1,5 +1,5 @@
 <h1 align="center">I'm Malik abubreak</h1>
-<h3 align="center">💻 Junior Mobile Developer | Flutter | iOS | JAVA | Spring | Spring Boot | Node.js</h3>
+<h3 align="center">💻 Junior FullStack Developer | Flutter | React-Native | React | iOS | JAVA | Spring | Spring Boot | Node.js</h3>
 
 <img align=“center” width=“400” src="https://raw.githubusercontent.com/Potential17/Potential17/master/user%20(2).gif" alt="abubreak"/>
 
